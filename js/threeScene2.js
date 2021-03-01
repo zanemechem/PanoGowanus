@@ -9,7 +9,7 @@ var manualControl = false;
 			var savedLatitude;
 			
 			// panoramas background
-			var panoramasArray = ["textures/Pano3.png","textures/Pano4.png","textures/Pano5.png","textures/Pano6.png"];
+			var panoramasArray = ["textures/Pano3.png","textures/Pano4.jpg","textures/Pano5.jpg","textures/Pano6.jpg"];
 			var panoramaNumber = Math.floor(Math.random()*panoramasArray.length);
 
 			// setting up the renderer
